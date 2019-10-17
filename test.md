@@ -51,3 +51,11 @@
 4.使用段落
 ---
 
+///////////////
+<br>
+Attention:
+在HTML区块标签间的Markdown格式语法不会被处理。比如，你在HTML区块内使用Markdown样式的强调* qiangiao* 会没有效果
+
+一种格式
+<p> 格式1：<em>geshi</em> </p>
+em----> emphasize
